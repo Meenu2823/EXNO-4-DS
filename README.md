@@ -26,5 +26,7 @@ The feature selection techniques used are:
 # CODING AND OUTPUT:
        Developed by: MEENU.S
        Register no.: 212223230124
+![image](https://github.com/Meenu2823/EXNO-4-DS/assets/139416219/e05b71c4-9182-439a-9e37-55b7c235a0dd)
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
