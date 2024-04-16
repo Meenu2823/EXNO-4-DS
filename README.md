@@ -25,7 +25,6 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
        Developed by: MEENU.S
-
        Register no.: 212223230124
 # RESULT:
        # INCLUDE YOUR RESULT HERE
