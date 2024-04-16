@@ -40,6 +40,9 @@ The feature selection techniques used are:
 ![image](https://github.com/Meenu2823/EXNO-4-DS/assets/139416219/2b0389bd-d3dd-4710-9687-4537a6569a9e)
 ![image](https://github.com/Meenu2823/EXNO-4-DS/assets/139416219/61ea1b9c-3754-412c-aaf7-730d53e703f7)
 ![image](https://github.com/Meenu2823/EXNO-4-DS/assets/139416219/a989dd17-c79d-444a-a20c-785450d2f180)
+![image](https://github.com/Meenu2823/EXNO-4-DS/assets/139416219/526dfd69-ee6c-484a-b611-1ef54d083d7a)
+![image](https://github.com/Meenu2823/EXNO-4-DS/assets/139416219/23f49efa-96f6-4864-95f2-0a7299bf5218)
+![image](https://github.com/Meenu2823/EXNO-4-DS/assets/139416219/312b8d8e-acde-4538-9cd5-7d35179445e0)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus,Feature Scaling and Feature Selection process has been performed on the given data.
